@@ -1,4 +1,4 @@
-module tun2socks
+module github.com/luckypoem/tun2socks-3
 
 go 1.13
 
